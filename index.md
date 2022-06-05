@@ -63,3 +63,6 @@ Rec Room [Discord](https://discord.gg/recroom/)
 - [Create a Class](https://recroom.com/createaclass)
 - [Creative Workshops](https://recroom.com/workshops)
 - [Creative Club(s)](https://recroom.com/creativeclubs)
+
+## Sponsored Leagues 
+- You can find info about Sponsored Leagues [here](https://recroom.com/createaleague) and a list of all currently sponsored leagues [here](https://recroom.com/sponsoredleagues)
