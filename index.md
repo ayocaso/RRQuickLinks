@@ -1,4 +1,8 @@
+[one]: ## "((Made by someone who works at Rec Room/Represents them))"
+
 # Rec Room Useful Quick Links
+PLEASE NOTE: This is <b>NOT</b> [official](http://about:blank "Made by someone who works at Rec Room/Represents them"), and is not to be treated as such. I'm just an avid Rec Room player [|=)]
+
 A comprehensive link directory which addresses many commonly asked questions. Created by Caso#2329 - message me if you have any questions.\
 <br>For support, please visit [here](https://recroom.zendesk.com/) or, for in-game feature requests: visit [here](https://recroom.zendesk.com/hc/en-us/community/topics)
 
