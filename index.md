@@ -1,6 +1,6 @@
 # Rec Room Useful Quick Links
 A comprehensive link directory which addresses many commonly asked questions. Created by Caso#2329 - message me if you have any questions.\
-<br>For support, please visit [here](https://recroom.zendesk.com/)
+<br>For support, please visit [here](https://recroom.zendesk.com/) or, for in-game feature requests: visit [here](https://recroom.zendesk.com/hc/en-us/community/topics)
 
 ## Code of Conduct
 Find the Rec Room Conduct [here](https://recroom.zendesk.com/hc/en-us/articles/4419890420887-Rec-Room-Code-of-Conduct)
