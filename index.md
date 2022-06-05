@@ -36,7 +36,7 @@ Rec Room [Discord](https://discord.gg/recroom/)
 
 ## Where can I find others to play with me?
 - There are many places in the [Rec Room Discord](https://discord.gg/recroom/) which allow you to meetup with others. One place is the `#meetup` channel.
-- If you don't have access to Discord or would prefer something quicker, try looking around in-game! Common community spots such as the [^RecCenter](https://rec.net/room/RecCenter) are great places to search for others willing to play.
+- If you don't have access to Discord or would prefer something quicker, try looking around in-game! Common community spots such as the [RecCenter](https://rec.net/room/RecCenter) are great places to search for others willing to play.
 
 ## Creative Tools Beta Content and Other misc. links
 - [Builders Please Beware](https://recroom.zendesk.com/hc/en-us/articles/4500865410967-Builders-Please-Beware)
