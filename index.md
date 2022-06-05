@@ -1,5 +1,5 @@
 # Rec Room Useful Quick Links
-A comprehensive link directory which addresses many commonly asked questions.\
+A comprehensive link directory which addresses many commonly asked questions. Created by Caso#2329 - message me if you have any questions.\
 <br>For support, please visit [here](https://recroom.zendesk.com/)
 
 ## Code of Conduct
